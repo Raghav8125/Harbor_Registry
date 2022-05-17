@@ -7,5 +7,5 @@ Harbor a CNF(cloud native computing foundation) graduated project
 Ensures images are scanned and free from vulnerabilites
 signs images are trusted
 Securely manages Artifacts aross cloud native platforms like Docker and kubernetes
-Delivers performance ,compilance and interperability.
+Delivers performance ,compilance 
 
